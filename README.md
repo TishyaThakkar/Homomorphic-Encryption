@@ -1,4 +1,4 @@
-# Homomorphic-Encryption
+# Federated Learning and Homomorphic Encryption
 The project consists of a Data Owner and Data Scientist. The Data Owner seeking to
 perform machine learning or deep learning on his sensitive data uses Federated
 Learning to allow access to only specific parts of the data needed for model creation.
